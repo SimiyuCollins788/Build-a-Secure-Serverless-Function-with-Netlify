@@ -1,2 +1,4 @@
-# Build-a-Secure-Serverless-Function-with-Netlify
-We will learn to build serverless functions with the JavaScript language, deploy them to Netlify, and secure them using Okta. Netlify is a hosting company that dramatically simplifies deploying web sites and serverless functions (called Netlify Functions) with continuous integration and many more features. Okta is an identity and access management company that makes adding authentication to your applications a breeze.
+# Create Your First Serverless Function
+
+This is a starter file for a tweet thread from [Chris On Code](https://twitter.com/chrisoncode).
+
